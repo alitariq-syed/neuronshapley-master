@@ -1,0 +1,9 @@
+disabling top 20% neurons (865) results in model accuracy of 0.5% that was originally 69.5%
+
+default recall for class 9 = 93.3%
+
+
+class specific code running
+with top 845 player removed in players.txt
+
+once the code finds top 100 neurons, then in order to find class recall by disabling the top 40 class neurons, we need to create mapping of the disabled neurons with the 845 that were removed earlier
